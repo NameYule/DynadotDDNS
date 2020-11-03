@@ -1,0 +1,2 @@
+# DynadotDDNS
+ddns for dynadot
